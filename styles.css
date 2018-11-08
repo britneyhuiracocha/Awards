@@ -1,0 +1,39 @@
+img{
+    width:300px;
+}
+h1{
+    color:#65E8FF;
+}
+body{
+    text-align:center;
+    background-color:#E4A0BC;
+    border:dotted;
+}
+h3{
+    color:#FF086E;
+}
+.artist{
+    background-color:grey;
+    color:white;
+    font-family: 'Noto Serif', serif;
+    border:silver groove;
+}
+.season{
+    background-color:skyblue;
+    font-family: 'Pattaya', sans-serif;
+    color:#FF6100;
+    border:inset purple;
+}
+.holiday{
+    background-color:lightgreen;
+    font-family: 'Mali', cursive;
+    color:green;
+    border:red ridge;
+
+}
+.pet{
+    background-color:lightblue;
+    font-family: 'Acme', sans-serif;
+    color: blue;
+    border:skyblue outset;
+}
